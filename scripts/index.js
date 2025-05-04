@@ -12,7 +12,6 @@ function addToBag(itemId) {
   localStorage.setItem('bagItems', JSON.stringify(bagItems));
   displayBagIcon();
 }
-
 function displayBagIcon() {
   let bagItemCountElement = document.querySelector('.bag-item-count');
   if (bagItems.length > 0) {
