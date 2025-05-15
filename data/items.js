@@ -12,7 +12,7 @@ const items = [
         rating: {
             stars: 4.5,
             count: 1400,
-        },  
+        },    
     },   
     {
         id: '002',
