@@ -11,7 +11,7 @@ const items = [
         delivery_date: '10 Oct 2023',
         rating: {  
             stars: 4.5,    
-            count: 1400,        
+            count: 1400,          
         },    
     },      
     {
