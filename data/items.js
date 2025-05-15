@@ -16,7 +16,7 @@ const items = [
     },   
     {
         id: '002',
-        image: 'images/2.jpg',
+        image: 'images/2.jpg', 
         company: 'CUKOO',
         item_name: 'Women Padded Halter Neck Swimming Dress',
         original_price: 2599,
