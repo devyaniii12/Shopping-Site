@@ -9,7 +9,7 @@ const items = [
         discount_percentage: 42, 
         return_period: 14,   
         delivery_date: '10 Oct 2023',       
-        rating: {  
+        rating: {      
             stars: 4.5,       
             count: 1400,                
         },    
