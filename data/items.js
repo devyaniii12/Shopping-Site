@@ -15,7 +15,7 @@ const items = [
         },    
     },      
     {
-        id: '002',
+        id: '002',  
         image: 'images/2.jpg', 
         company: 'CUKOO',
         item_name: 'Women Padded Halter Neck Swimming Dress',
