@@ -8,7 +8,7 @@ a.action_container:link {
 .item-details {
     cursor: pointer;  
     width: 250px;
-    margin: 10px;
+    margin: 10px; 
 }
 .stars { 
     font-size: 12px;
