@@ -13,7 +13,6 @@ function addToBag(itemId) {
   displayBagIcon();
 }
 
-
 function displayBagIcon() {
   let bagItemCountElement = document.querySelector('.bag-item-count');
   if (bagItems.length > 0) {
